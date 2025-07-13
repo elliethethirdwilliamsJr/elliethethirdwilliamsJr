@@ -59,7 +59,6 @@
   </tr>
 </table>
 
-<h2 align="center">🌟 Highlight Projects</h2>
 <div align="center">
   <h2>🌟 Highlight Projects</h2>
 </div>
