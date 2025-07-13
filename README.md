@@ -11,7 +11,42 @@
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&logo=check&logoColor=white" />
 </p>
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Me</h2> <div align="center">
+  <h2>🛠️ Technical Skills</h2>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Mobile</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
+        <br />
+        <sub>React • TypeScript • JavaScript<br />HTML5 • CSS3 • Tailwind</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,kotlin,android,firebase" />
+        <br />
+        <sub>React Native • Kotlin<br />Android SDK • Firebase</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=firebase,nodejs,wordpress" />
+        <br />
+        <sub>Firebase • Node.js<br />WordPress • Elementor</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+        <br />
+        <sub>Git • GitHub<br />VS Code • Development Tools</sub>
+      </td>
+    </tr>
+  </table>
+</d...
+[truncated]
 
 <table align="center">
   <tr>
@@ -145,39 +180,4 @@
   </details>
 </div>
 ---
-<div align="center">
-  <h2>🛠️ Technical Skills</h2>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Frontend</b></td>
-      <td align="center"><b>Mobile</b></td>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
-        <br />
-        <sub>React • TypeScript • JavaScript<br />HTML5 • CSS3 • Tailwind</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,kotlin,android,firebase" />
-        <br />
-        <sub>React Native • Kotlin<br />Android SDK • Firebase</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=firebase,nodejs,wordpress" />
-        <br />
-        <sub>Firebase • Node.js<br />WordPress • Elementor</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-        <br />
-        <sub>Git • GitHub<br />VS Code • Development Tools</sub>
-      </td>
-    </tr>
-  </table>
-</d...
-[truncated]
+
