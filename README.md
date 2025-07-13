@@ -1,16 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there%20—%20I'm%20Ellie%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" style="display: block; margin: 0 auto;" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full-stack+Mobile+%26+Web+Developer;Fast+Delivery+%7C+Clean+Code+%7C+Real+Solutions;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Production%20Ready%20Apps-blue?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passion-Efficiency%20%26%20UX-green?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&logo=check&logoColor=white" />
-</p>
-
 <h2 align="center">🚀 About Me</h2> <div align="center">
   <h2>🛠️ Technical Skills</h2>
 </div>
@@ -47,6 +37,17 @@
   </table>
 </d...
 [truncated]
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full-stack+Mobile+%26+Web+Developer;Fast+Delivery+%7C+Clean+Code+%7C+Real+Solutions;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Production%20Ready%20Apps-blue?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passion-Efficiency%20%26%20UX-green?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&logo=check&logoColor=white" />
+</p>
 
 <table align="center">
   <tr>
