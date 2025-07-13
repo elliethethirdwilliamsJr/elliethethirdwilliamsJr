@@ -9,7 +9,7 @@ div align="center">
   <img src="https://img.shields.io/badge/Passion-Efficiency%20%26%20UX-green?style=for-the-badge&logo=heart&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge&logo=check&logoColor=white" />
 </div>
----
+
 <div align="center">
   <h2>🚀 About Me</h2>
 </div>
