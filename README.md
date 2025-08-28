@@ -1,10 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20there%20—%20I'm%20Ellie%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" style="display: block; margin: 0 auto;" />
 
-<h2 align="center">🚀 About Me</h2> <div align="center">
-  <h2>🛠️ Technical Skills</h2>
-</div>
-
 <h2 align="center">📊 My Developer Analytics</h2>
 
 <p align="center">
