@@ -179,6 +179,21 @@
     <br />
     <sub>Smart AI tool providing actionable feedback for uploaded resumes</sub>
   </details>
+  <h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elliethethirdwilliamsJr&show_icons=true&theme=radical" alt="Ellie's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliethethirdwilliamsJr&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elliethethirdwilliamsJr&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elliethethirdwilliamsJr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 </div>
 ---
 
