@@ -4,6 +4,33 @@
 <h2 align="center">🚀 About Me</h2> <div align="center">
   <h2>🛠️ Technical Skills</h2>
 </div>
+
+<h2 align="center">📊 My Developer Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elliethethirdwilliamsJr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliethethirdwilliamsJr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elliethethirdwilliamsJr&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
+</p>
+
+---
+
+<h3 align="center">🔥 My Tech Focus</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Most%20Used-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elliethethirdwilliamsJr&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
+
+
 <div align="center">
   <table>
     <tr>
@@ -179,21 +206,7 @@
     <br />
     <sub>Smart AI tool providing actionable feedback for uploaded resumes</sub>
   </details>
-  <h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elliethethirdwilliamsJr&show_icons=true&theme=radical" alt="Ellie's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliethethirdwilliamsJr&layout=compact&theme=radical" alt="Top Languages" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elliethethirdwilliamsJr&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elliethethirdwilliamsJr&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
+ 
 </div>
 ---
 
