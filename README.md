@@ -1,52 +1,55 @@
 <h1 align="center">Hi, I'm Ellie</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Ride+Hailing+Systems+%7C+Mobile+Apps+%7C+Backend+Architect;Flutter+%7C+React+Native+%7C+AWS+%7C+Firebase+%7C+VB.NET" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Ride+Hailing+Systems+%7C+Mobile+Apps+%7C+Cloud+Architecture;Flutter+%7C+React+Native+%7C+AWS+%7C+Docker+%7C+Backend+Engineering" />
 </p>
 
 <p align="center">
-Full-stack Software Engineer focused on building production-grade systems including ride-hailing platforms, mobile apps, and scalable backend architectures.
+Full-stack Software Engineer focused on building production-grade systems including ride-hailing platforms, mobile applications, and scalable cloud architectures.
 </p>
 
 <p align="center">
-I build real systems — not prototypes — from dispatch logic to real-time tracking, payments, and admin operations.
+I design and ship real systems — dispatch engines, tracking systems, backend APIs, and mobile apps used in real operations.
 </p>
 
 ---
 
 ## Core Expertise
 
-- Ride-hailing system development (dispatch, matching, tracking, pricing logic)
-- Mobile app development (Flutter + React Native)
-- Backend architecture and APIs (Node.js + VB.NET + Firebase)
-- Cloud infrastructure (AWS deployment, scaling, and services)
+- Ride-hailing platform architecture (dispatch, pricing, tracking, operations)
+- Mobile app development (Flutter, React Native, Kotlin, Swift)
+- Backend system design (Node.js, Java, Python, VB.NET)
+- Cloud infrastructure and deployment (AWS, Firebase, Docker)
 - Database design and optimization (SQL-based systems)
-- Real-time systems and operational dashboards
+- Real-time systems and API engineering
 
 ---
 
 ## Tech Stack
 
-### Frontend & Mobile
+### Mobile & Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### Backend & Cloud Systems
+### Backend & Systems Engineering
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
-
-### Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 
 ---
 
@@ -75,21 +78,21 @@ I build real systems — not prototypes — from dispatch logic to real-time tra
 ## Systems I Build
 
 ### Ride-Hailing Platform Architecture
-- Real-time driver-passenger matching
-- Live GPS tracking systems
-- Dynamic pricing logic (distance + time-based)
-- Admin dashboard for operations
-- Payment and commission handling systems
+- Driver and passenger matching systems
+- Real-time GPS tracking and location updates
+- Dynamic pricing based on distance and duration
+- Admin dashboards for fleet and operations management
+- Payment flows and commission logic
 
 ### Mobile Applications
-Cross-platform apps built with Flutter and React Native for booking, ordering, and service-based platforms.
+Cross-platform and native mobile apps built with Flutter, React Native, Kotlin, and Swift for booking, logistics, and service platforms.
 
-### Backend Systems
-Scalable APIs, authentication systems, and operational logic built using Node.js, Firebase, VB.NET, and AWS infrastructure.
+### Backend & Cloud Systems
+Scalable APIs and backend services using Node.js, Java, Python, VB.NET, and AWS infrastructure with Docker-based deployments.
 
 ---
 
 ## Architecture Philosophy
 
-I build systems designed for real-world usage — high traffic, real users, and production-level reliability.  
-Everything is structured for scalability, maintainability, and operational control.
+I build systems for real-world production use — not demos.  
+Every system is designed for scalability, reliability, and long-term maintainability under real operational load.
