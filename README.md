@@ -47,7 +47,6 @@ Tools: Git, GitHub, VS Code, CI/CD basics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elliethethirdwilliamsJr&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akora43214321&layout=compact&theme=default" height="160"/>
 </p>
 
 ---
