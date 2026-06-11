@@ -1,40 +1,40 @@
-<h1 align="center">Hi, I'm Ellie 👋</h1>
+<h1 align="center">Hi, I'm Ellie</h1>
 
 <p align="center">
 Full-stack Software Engineer focused on building real-world production systems using React, TypeScript, Firebase, and modern mobile stacks.
 </p>
 
 <p align="center">
-I specialize in turning ideas into working products — not demos. From admin systems to mobile apps, I build fast, iterate quickly, and ship clean, maintainable code.
+I specialize in turning ideas into working products — not demos. From admin systems to mobile applications, I build fast, iterate quickly, and ship clean, maintainable code.
 </p>
 
 ---
 
-## 🧠 What I Actually Do
+## About Me
 
-- Build production-ready web & mobile applications (not just UI prototypes)
-- Design backend + frontend systems using Firebase / Node.js architectures
-- Optimize workflows for speed, scalability, and maintainability
-- Work on real client systems with tight deadlines and frequent iteration cycles
-
----
-
-## 🚀 Selected Work
-
-### 🏢 Inventory & Operations System
-Enterprise-grade system used for real-time stock tracking, role-based access, and admin workflows.  
-Built with React, Firebase, and optimized Firestore data modeling for consistency at scale.
-
-### 🏥 Patient Management & Scheduling Platform
-Full appointment + scheduling system with secure authentication and role-based dashboards.  
-Designed to handle daily operational workflows with real-time updates.
-
-### 📱 Mobile Apps (React Native / Kotlin)
-Built multiple mobile applications including ordering systems, booking platforms, and utility apps with Firebase-backed infrastructure.
+- Build production-ready web and mobile applications beyond UI prototypes
+- Design scalable frontend and backend systems using Firebase and Node.js
+- Optimize workflows for performance, maintainability, and rapid iteration
+- Work on real client systems with tight deadlines and continuous delivery
 
 ---
 
-## ⚙️ Tech Stack
+## Selected Work
+
+### Inventory & Operations System
+Enterprise-grade system for real-time stock tracking, role-based access control, and internal admin workflows.  
+Built with React and Firebase, with optimized Firestore data modeling for scalable operations.
+
+### Patient Management & Scheduling Platform
+Appointment and scheduling system with authentication, role-based dashboards, and real-time updates.  
+Designed for operational use in fast-paced environments.
+
+### Mobile Applications (React Native / Kotlin)
+Developed multiple mobile applications including booking systems, ordering platforms, and utility apps backed by Firebase infrastructure.
+
+---
+
+## Tech Stack
 
 Frontend: React, TypeScript, Tailwind, React Native  
 Backend: Firebase, Node.js  
@@ -43,6 +43,15 @@ Tools: Git, GitHub, VS Code, CI/CD basics
 
 ---
 
-## 📌 Philosophy
+## GitHub Stats
 
-I don’t just build features — I build systems that actually get used, iterated, and maintained.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="160"/>
+</p>
+
+---
+
+## Philosophy
+
+I focus on building systems that are actually used in production — not just prototypes. The goal is always reliability, maintainability, and fast iteration without breaking structure.
